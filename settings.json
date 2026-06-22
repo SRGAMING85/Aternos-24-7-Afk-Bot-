@@ -8,7 +8,7 @@
   "server": {
     "ip": "homebound-rGZU.aternos.me",
     "port": 17094,
-    "version": "1.26.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
