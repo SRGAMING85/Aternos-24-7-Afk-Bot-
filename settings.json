@@ -8,7 +8,7 @@
   "server": {
     "ip": "homebound-rGZU.aternos.me",
     "port": 17094,
-    "version": "26.2",
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
+        "Do what SrGam1ng85 says...",
         "Hi",
         "SrGam1ng85 is the leader of this smp"
       ]
