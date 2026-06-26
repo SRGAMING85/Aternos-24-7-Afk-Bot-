@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "homebound-rGZU.aternos.me",
-    "port": 17094,
+    "ip": "rpmriot.aternos.me",
+    "port": 23259,
     "version": "1.20.1",
     "try-creative": false
   },
